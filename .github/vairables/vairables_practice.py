@@ -7,3 +7,5 @@ account_balance = 6666.66 # Floating Point value, +/-.
 user_name = "wakasa inaki" # String, a colloction of letters/numbers.
 
 print(life_count)
+print(account_balance)
+print(user_name)
